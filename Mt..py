@@ -1,10 +1,10 @@
-a=22
 
-b=7
+
+
 
 x=int(input("enter no "))
 
-q=a/b
+q=22/7
 
 r=x*x
 
