@@ -1,14 +1,15 @@
 
+a=22
 
-
+o=7
 
 x=int(input("enter no "))
 
-q=22/7
+q=float(a/o)
 
 r=x*x
 
-f=r*q
+f=float(r*q)
 
 print(q)
 
