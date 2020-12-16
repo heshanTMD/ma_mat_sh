@@ -13,3 +13,7 @@
 ⛔ls
 
 ⛔cd ma_mat_sh
+
+⛔mt..ou
+
+⛔"Enter number"
